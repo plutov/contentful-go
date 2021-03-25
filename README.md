@@ -1,5 +1,5 @@
 [![codecov](https://codecov.io/gh/contentful-labs/contentful-go/branch/master/graph/badge.svg)](https://codecov.io/gh/contentful-labs/contentful-go)
-[![Godoc](https://img.shields.io/badge/godoc-Reference-brightgreen.svg?style=flat)](https://godoc.org/github.com/contentful-labs/contentful-go)
+[![Godoc](https://img.shields.io/badge/godoc-Reference-brightgreen.svg?style=flat)](https://godoc.org/github.com/plutov/contentful-go)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Build Status](https://travis-ci.com/contentful-labs/contentful-go.svg?token=ppF3HxXy28XU9AwHHiGX&branch=master)](https://travis-ci.com/contentful-labs/contentful-go)
 
@@ -16,7 +16,7 @@ GoLang SDK for [Contentful's](https://www.contentful.com) Content Delivery, Prev
 
 # Install
 
-`go get github.com/contentful-labs/contentful-go`
+`go get github.com/plutov/contentful-go`
 
 # Getting started
 
@@ -24,7 +24,7 @@ Import into your Go project or library
 
 ```go
 import (
-	contentful "github.com/contentful-labs/contentful-go"
+	contentful "github.com/plutov/contentful-go"
 )
 ```
 
@@ -153,7 +153,7 @@ $> go test -v -race
 
 ## Support
 
-This is a project created for demo purposes and not officially supported, so if you find issues or have questions you can let us know via the [issue](https://github.com/contentful-labs/contentful-go/issues/new) page but don't expect a quick and prompt response.
+This is a project created for demo purposes and not officially supported, so if you find issues or have questions you can let us know via the [issue](https://github.com/plutov/contentful-go/issues/new) page but don't expect a quick and prompt response.
 
 ## Contributing
 
